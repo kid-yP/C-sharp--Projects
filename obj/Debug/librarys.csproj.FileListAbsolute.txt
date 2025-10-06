@@ -1,0 +1,17 @@
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.csproj.AssemblyReference.cache
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.Properties.Resources.resources
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.csproj.GenerateResource.cache
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.csproj.CoreCompileInputs.cache
+C:\Users\MIKIMARE\source\repos\librarys\librarys\bin\Debug\librarys.exe.config
+C:\Users\MIKIMARE\source\repos\librarys\librarys\bin\Debug\librarys.exe
+C:\Users\MIKIMARE\source\repos\librarys\librarys\bin\Debug\librarys.pdb
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.exe
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.pdb
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.UserLogin.resources
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.mainDashbboard.resources
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.Form1.resources
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.addBook.resources
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.borrowBook.resources
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.ReturnBook.resources
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.searchBooks.resources
+C:\Users\MIKIMARE\source\repos\librarys\librarys\obj\Debug\librarys.UpdateBookForm.resources
